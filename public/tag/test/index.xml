@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test | Academic</title>
-    <link>/tag/test/</link>
-      <atom:link href="/tag/test/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://dvesti.github.io/rblog/tag/test/</link>
+      <atom:link href="https://dvesti.github.io/rblog/tag/test/index.xml" rel="self" type="application/rss+xml" />
     <description>test</description>
     <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <url>https://dvesti.github.io/rblog/media/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
       <title>test</title>
-      <link>/tag/test/</link>
+      <link>https://dvesti.github.io/rblog/tag/test/</link>
     </image>
     
     <item>
       <title>Hi Hugo</title>
-      <link>/post/hi-hugo/</link>
+      <link>https://dvesti.github.io/rblog/post/hi-hugo/</link>
       <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
-      <guid>/post/hi-hugo/</guid>
+      <guid>https://dvesti.github.io/rblog/post/hi-hugo/</guid>
       <description>&lt;p&gt;тест&lt;/p&gt;
 &lt;pre&gt;&lt;code class=&#34;language-r&#34;&gt;summary(Orange)
 &lt;/code&gt;&lt;/pre&gt;
@@ -28,7 +28,7 @@
 ##  4:7   3rd Qu.:1372.0   3rd Qu.:161.5  
 ##        Max.   :1582.0   Max.   :214.0
 &lt;/code&gt;&lt;/pre&gt;
-&lt;p&gt;&lt;img src=&#34;/post/hi-hugo/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://dvesti.github.io/rblog/post/hi-hugo/index_files/figure-html/unnamed-chunk-2-1.png&#34; width=&#34;672&#34; /&gt;&lt;/p&gt;
 </description>
     </item>
     

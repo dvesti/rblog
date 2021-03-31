@@ -17,7 +17,9 @@ image:
 projects: []
 ---
 
-тест
+тест  
+
+<!--more-->
 
 ```{r}
 summary(Orange)

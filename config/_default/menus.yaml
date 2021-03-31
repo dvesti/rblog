@@ -4,24 +4,24 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Demo
+  - name: Главная
     url: '#about'
     weight: 10
-  - name: Posts
+  - name: Архив
     url: '#posts'
     weight: 20
-  - name: Projects
+  - name: Проекты
     url: '#projects'
     weight: 30
-  - name: Talks
+  - name: Обсуждения
     url: '#talks'
     weight: 40
-  - name: Publications
+  - name: Публикации
     url: '#featured'
     weight: 50
-  - name: Courses
+  - name: Курсы
     url: courses/
     weight: 60
-  - name: Contact
+  - name: Контакт
     url: '#contact'
     weight: 70

@@ -5,14 +5,14 @@ theme: "starter-academic"
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Blogdown.ru # Website name
-baseurl: 'https://dvesti.github.io/rblog' # Website URL
+baseurl: 'https://www.blogdown.ru' # Website URL
 copyright: '{year} rBlog' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
 ############################
 
-defaultContentLanguage: ru
+defaultContentLanguage: en
 hasCJKLanguage: false
 defaultContentLanguageInSubdir: false
 removePathAccents: true

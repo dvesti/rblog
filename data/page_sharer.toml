@@ -1,0 +1,127 @@
+# Page Sharer
+# Documentation: https://sourcethemes.com/academic/docs/customization/#page-sharer
+
+[[buttons]]
+  id = "twitter"
+  url = "https://twitter.com/intent/tweet?url={url}&text={title}"
+  title = "Twitter"
+  icon_pack = "fab"
+  icon = "twitter"
+  enable = true
+
+[[buttons]]
+  id = "facebook"
+  url = "https://www.facebook.com/sharer.php?u={url}&t={title}"
+  title = "Facebook"
+  icon_pack = "fab"
+  icon = "facebook"
+  enable = true
+
+[[buttons]]
+  id = "email"
+  url = "mailto:?subject={title}&body={url}"
+  title = "Email"
+  icon_pack = "fas"
+  icon = "envelope"
+  enable = true
+
+[[buttons]]
+  id = "linkedin"
+  url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
+  title = "LinkedIn"
+  icon_pack = "fab"
+  icon = "linkedin-in"
+  enable = false #true
+
+[[buttons]]
+  id = "whatsapp"
+  url = "https://web.whatsapp.com/send?text={title}%20{url}"
+  title = "WhatsApp"
+  icon_pack = "fab"
+  icon = "whatsapp"
+  enable = false
+
+[[buttons]]
+  id = "weibo"
+  url = "https://service.weibo.com/share/share.php?url={url}&title={title}"
+  title = "Weibo"
+  icon_pack = "fab"
+  icon = "weibo"
+  enable = true #false
+
+[[buttons]]
+  id = "reddit"
+  url = "https://reddit.com/submit?url={url}&title={title}"
+  title = "Reddit"
+  icon_pack = "fab"
+  icon = "reddit-alien"
+  enable = false
+
+[[buttons]]
+  id = "pinterest"
+  url = "https://pinterest.com/pin/create/link/?url={url}&description={title}"
+  title = "Pinterest"
+  icon_pack = "fab"
+  icon = "pinterest"
+  enable = false
+
+[[buttons]]
+  id = "xing"
+  url = "https://www.xing.com/spi/shares/new?url={url}&title={title}"
+  title = "Xing"
+  icon_pack = "fab"
+  icon = "xing"
+  enable = false
+
+[[buttons]]
+  id = "tumblr"
+  url = "https://www.tumblr.com/widgets/share/tool?canonicalUrl={url}&title={title}"
+  title = "Tumblr"
+  icon_pack = "fab"
+  icon = "tumblr"
+  enable = false
+
+  # Non-English
+
+  [[buttons]]
+  id = "blogger"
+  url = "https://www.blogger.com/blog-this.g?u={url}&title={title}"
+  title = "Blogger"
+  icon_pack = "fab"
+  icon = "blogger"
+  enable = true #false
+
+  [[buttons]]
+  id = "lj"
+  url = "http://www.livejournal.com/update.bml?subject={url}&title={title}"
+  title = "LiveJournal"
+  icon_pack = "fab"
+  icon = "pencil-square-o"
+  enable = true #false
+
+  [[buttons]]
+  id = "okru"
+  url = "https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&st.shareUrl={url}&title={title}"
+  title = "OK.ru"
+  icon_pack = "fab"
+  icon = "odnoklassniki"
+  enable = true #false
+
+  [[buttons]]
+  id = "telegram"
+  url = "https://t.me/share/url?url={url}&title={title}"
+  title = "Telegram"
+  icon_pack = "fab"
+  icon = "telegram"
+  enable = true #false
+
+  [[buttons]]
+  id = "vk"
+  url = "http://vk.com/share.php?url={url}&title={title}"
+  title = "VK"
+  icon_pack = "fab"
+  icon = "vk"
+  enable = true #false
+
+
+

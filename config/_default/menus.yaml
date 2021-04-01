@@ -7,8 +7,8 @@ main:
   - name: Главная
     url: '#about'
     weight: 10
-  - name: Архив
-    url: '#posts'
+  - name: Блог
+    url: 'blog'
     weight: 20
 #  - name: Проекты
 #    url: '#projects'

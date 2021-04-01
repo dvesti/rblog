@@ -6,5 +6,5 @@
 Thumbs.db
 
 # Hugo
-resources/
-public/
+/resources/
+/public/

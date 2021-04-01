@@ -10,18 +10,18 @@ main:
   - name: Архив
     url: '#posts'
     weight: 20
-  - name: Проекты
-    url: '#projects'
-    weight: 30
-  - name: Обсуждения
-    url: '#talks'
-    weight: 40
-  - name: Публикации
-    url: '#featured'
-    weight: 50
+#  - name: Проекты
+#    url: '#projects'
+#    weight: 30
+#  - name: Обсуждения
+#    url: '#talks'
+#    weight: 40
+#  - name: Публикации
+#    url: '#featured'
+#    weight: 50
   - name: Курсы
     url: courses/
     weight: 60
-  - name: Контакт
-    url: '#contact'
-    weight: 70
+#  - name: Контакт
+#    url: '#contact'
+#    weight: 70

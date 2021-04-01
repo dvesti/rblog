@@ -95,8 +95,8 @@
   id = "lj"
   url = "http://www.livejournal.com/update.bml?subject={url}&title={title}"
   title = "LiveJournal"
-  icon_pack = "fab"
-  icon = "pencil-square-o"
+  icon_pack = "fas"
+  icon = "pen-square"
   enable = true #false
 
   [[buttons]]

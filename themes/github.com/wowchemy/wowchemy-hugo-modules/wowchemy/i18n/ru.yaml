@@ -17,9 +17,9 @@
 - id: minute_read
   translation: мин. для прочтения
 - id: previous
-  translation: Предыдущий
+  translation: Предыдущая
 - id: next
-  translation: Следующий
+  translation: Следующая
 - id: figure
   translation: 'Схема № %d:'
 - id: edit_page

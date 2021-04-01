@@ -42,7 +42,7 @@ social:
 #  icon_pack: fab
 #  link: https://www.linkedin.com/
 superuser: true
-title: VladimiR DmitRijev
+title: Vladimir Dmitrijev
 ---
 
 VlaDimiR is a blogger and author this site.

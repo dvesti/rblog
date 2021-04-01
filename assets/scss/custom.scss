@@ -376,3 +376,87 @@ a > svg.anchor-symbol:hover {
   transition: fill 0.6s ease;
 }
 
+/*************************************************
+ *  Widgets (common)
+ **************************************************/
+
+.see-all {
+  margin-top: 2rem;
+ /* text-transform: uppercase; */
+}
+
+
+/*************************************************
+ *  Pager.
+ **************************************************/
+
+ .post-nav {
+   display: flex;
+   justify-content: space-between;
+   font-weight: bold;
+   margin-top: 1rem;
+   font-size: 0.8rem;
+ }
+ 
+ .post-nav-item-prev {
+   margin-right: 1em; 
+   text-align: right;
+   hyphens: auto;
+   word-wrap: break-word;
+   padding: 11px 0 12px;
+   width: 100%;
+ }
+ 
+ .post-nav-item-prev a {
+   color: #2b2b2b;
+   line-height: 1.7;
+   text-transform: none;
+ }
+ 
+ .post-nav-item-prev .meta-nav {
+   color: #767676;
+   font-weight: 900;
+   line-height: 2;
+   text-transform: uppercase;
+ }
+ 
+ .dark .post-nav-item-prev a {
+   color: #ddd;
+ }
+ 
+ 
+/*************************************************
+ *  Pager- new
+ **************************************************/
+
+/*.post-nav {
+   margin-top: 1rem;
+   font-size: 0.8rem;
+ }
+ */
+ .post-nav-item-next {
+   margin-left: 1em;
+   text-align: left;
+   hyphens: auto;
+   word-wrap: break-word;
+   padding: 11px 0 12px;
+   width: 100%;
+ }
+ 
+ .post-nav-item-next a {
+   color: #2b2b2b;
+   line-height: 1.7;
+   text-transform: none;
+ }
+ 
+ .post-nav-item-next .meta-nav {
+   color: #767676;
+   font-weight: 900;
+   line-height: 2;
+   text-transform: uppercase;
+ }
+ 
+ .dark .post-nav-item-next a {
+   color: #ddd;
+ }
+

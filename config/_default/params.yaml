@@ -79,6 +79,7 @@ highlight_languages:
   - r
   - python
   - latex
+highlight_style: agate #"monokai" #"vs2015" #"github-gist" #"solarized-dark"  
 math: false
 diagram: false
 privacy_pack: false
@@ -98,7 +99,7 @@ show_related:
   publication: true
   event: true
 reading_time: true
-section_pager: false
+section_pager: true #false
 docs_section_pager: true
 sharing: true
 copyright_license:

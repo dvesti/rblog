@@ -1,0 +1,43 @@
+---
+title: Hi Hugo -- привет!
+author: ''
+date: '2023-09-25'
+slug: hi-hugo
+categories: []
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2023-09-25T21:41:07+03:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+Это 25-09-2023
+
+Здесь будет всякое описание
+чтобы код не покал в анонс,
+а лучше вообще его не использовать в первых строчках!
+
+------------------
+
+```{r}
+summary(Orange)
+```
+
+```{r echo=FALSE}
+library(ggplot2)
+oplot <- ggplot(Orange, aes(x = age, 
+                   y = circumference, 
+                   colour = Tree)) +
+  geom_point() +
+  geom_line() +
+  guides(colour = FALSE) +
+  theme_bw()
+oplot
+```
+

@@ -19,6 +19,12 @@ projects: []
 
 тест  
 
+плохой тест  
+Хороший -- от 26-09-2023  
+
+--------------
+  
+
 <!--more-->
 
 
@@ -34,6 +40,15 @@ summary(Orange)
 ##  2:7   Mean   : 922.1   Mean   :115.9  
 ##  4:7   3rd Qu.:1372.0   3rd Qu.:161.5  
 ##        Max.   :1582.0   Max.   :214.0
+```
+
+
+```
+## Warning: The `<scale>` argument of `guides()` cannot be `FALSE`. Use "none" instead as
+## of ggplot2 3.3.4.
+## This warning is displayed once every 8 hours.
+## Call `lifecycle::last_lifecycle_warnings()` to see where this warning was
+## generated.
 ```
 
 <img src="{{< blogdown/postref >}}index_files/figure-html/unnamed-chunk-2-1.png" width="672" />

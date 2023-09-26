@@ -17,13 +17,20 @@ image:
 projects: []
 ---
 
-Это 25-09-2023
+Это 25-09-2023  
+А это уже 26-е  
 
-Здесь будет всякое описание
-чтобы код не покал в анонс,
-а лучше вообще его не использовать в первых строчках!
+Здесь будет всякое описание  
+чтобы код не покал в анонс,  
+а лучше вообще его не использовать в первых строчках!  
 
-------------------
+------------------  
+
+# Data basics  
+
+learnr: ex-data-basics  
+Learn about the base data types in R. Explore R's data frames, and learn how to interact with data frames and their columns  
+
 
 ```{r}
 summary(Orange)

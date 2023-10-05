@@ -6,6 +6,9 @@ abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere 
   egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id
   dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus.
   Vestibulum sit amet erat at nulla eleifend gravida.
+author_notes:
+- Equal contribution
+- Equal contribution
 authors:
 - admin
 - Robert Ford
@@ -16,38 +19,34 @@ image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
   focal_point: ""
   preview_only: false
-links:
-- name: Custom Link
-  url: http://example.org
 projects:
-- internal-project
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+- example
+publication: In *Wowchemy Conference*
+publication_short: In *ICW*
 publication_types:
-- "1"
+- paper-conference
 publishDate: "2017-01-01T00:00:00Z"
 slides: example
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus
   ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
-tags:
-- Source Themes
+tags: []
 title: An example conference paper
-url_code: '#'
-url_dataset: '#'
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_poster: '#'
+url_code: https://github.com/wowchemy/wowchemy-hugo-themes
+url_dataset: https://github.com/wowchemy/wowchemy-hugo-themes
+url_pdf: ""
+url_poster: ""
 url_project: ""
 url_slides: ""
-url_source: '#'
-url_video: '#'
+url_source: https://github.com/wowchemy/wowchemy-hugo-themes
+url_video: https://youtube.com
 ---
 
 {{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
 {{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
+Create your slides in Markdown - click the _Slides_ button to check out the example.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
+Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://wowchemy.com/docs/content/writing-markdown-latex/).

@@ -1,20 +1,22 @@
 ---
-title: Hi Hugo
-author: ''
-date: '2021-03-30'
-slug: hi-hugo
-categories: [Blogdown]
-tags: [test]
-subtitle: ''
-summary: ''
+author: ""
 authors: []
-lastmod: '2021-03-30T17:25:44+03:00'
-featured: no
+categories:
+- Blogdown
+date: "2021-03-30"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2021-03-30T17:25:44+03:00"
 projects: []
+slug: hi-hugo
+subtitle: ""
+summary: ""
+tags:
+- test
+title: Hi Hugo
 ---
 
 тест  

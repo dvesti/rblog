@@ -1,5 +1,5 @@
 # Page Sharer
-# Documentation: https://sourcethemes.com/academic/docs/customization/#page-sharer
+# Documentation: https://wowchemy.com/docs/hugo-tutorials/page-sharer/
 
 [[buttons]]
   id = "twitter"
@@ -31,15 +31,15 @@
   title = "LinkedIn"
   icon_pack = "fab"
   icon = "linkedin-in"
-  enable = false #true
+  enable = true
 
 [[buttons]]
   id = "whatsapp"
-  url = "https://web.whatsapp.com/send?text={title}%20{url}"
+  url = "whatsapp://send?text={title}%20{url}"
   title = "WhatsApp"
   icon_pack = "fab"
   icon = "whatsapp"
-  enable = false
+  enable = true
 
 [[buttons]]
   id = "weibo"
@@ -47,7 +47,7 @@
   title = "Weibo"
   icon_pack = "fab"
   icon = "weibo"
-  enable = true #false
+  enable = true
 
 [[buttons]]
   id = "reddit"
@@ -80,48 +80,3 @@
   icon_pack = "fab"
   icon = "tumblr"
   enable = false
-
-  # Non-English
-
-  [[buttons]]
-  id = "blogger"
-  url = "https://www.blogger.com/blog-this.g?u={url}&title={title}"
-  title = "Blogger"
-  icon_pack = "fab"
-  icon = "blogger"
-  enable = true #false
-
-  [[buttons]]
-  id = "lj"
-  url = "http://www.livejournal.com/update.bml?subject={url}&title={title}"
-  title = "LiveJournal"
-  icon_pack = "fas"
-  icon = "pen-square"
-  enable = true #false
-
-  [[buttons]]
-  id = "okru"
-  url = "https://connect.ok.ru/dk?st.cmd=WidgetSharePreview&st.shareUrl={url}&title={title}"
-  title = "OK.ru"
-  icon_pack = "fab"
-  icon = "odnoklassniki"
-  enable = true #false
-
-  [[buttons]]
-  id = "telegram"
-  url = "https://t.me/share/url?url={url}&title={title}"
-  title = "Telegram"
-  icon_pack = "fab"
-  icon = "telegram"
-  enable = true #false
-
-  [[buttons]]
-  id = "vk"
-  url = "http://vk.com/share.php?url={url}&title={title}"
-  title = "VK"
-  icon_pack = "fab"
-  icon = "vk"
-  enable = true #false
-
-
-

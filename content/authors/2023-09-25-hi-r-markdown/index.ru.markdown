@@ -1,20 +1,20 @@
 ---
-title: Hi, R Markdown!
 author: Dvesti
-date: '2023-09-25'
-slug: hi-r-markdown
-categories: []
-tags: []
-subtitle: ''
-summary: ''
 authors: []
-lastmod: '2023-09-25T20:58:06+03:00'
-featured: no
+categories: []
+date: "2023-09-25"
+featured: false
 image:
-  caption: ''
-  focal_point: ''
-  preview_only: no
+  caption: ""
+  focal_point: ""
+  preview_only: false
+lastmod: "2023-09-25T20:58:06+03:00"
 projects: []
+slug: hi-r-markdown
+subtitle: ""
+summary: ""
+tags: []
+title: Hi, R Markdown!
 ---
 
 Это приветствие! От 25-09-2023

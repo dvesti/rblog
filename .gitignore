@@ -4,7 +4,3 @@
 .Ruserdata
 .DS_Store
 Thumbs.db
-
-# Hugo
-/resources/
-/public/

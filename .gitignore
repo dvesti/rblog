@@ -1,5 +1,18 @@
+<<<<<<< Updated upstream
 .Rproj.user
 .Rhistory
 .RData
 .Ruserdata
 
+=======
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+.DS_Store
+Thumbs.db
+/public/
+/resources/
+.hugo_build.lock
+RBlog
+>>>>>>> Stashed changes

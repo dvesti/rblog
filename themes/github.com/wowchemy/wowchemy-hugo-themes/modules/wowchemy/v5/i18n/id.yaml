@@ -174,13 +174,16 @@
 - id: location
   translation: Lokasi
 
-- id: paper-conference
+- id: pub_uncat
+  translation: Tidak ada Kategori
+
+- id: pub_conf
   translation: Kertas konferensi
 
-- id: pub_article_journal
+- id: pub_journal
   translation: Artikel Jurnal
 
-- id: pub_article
+- id: pub_preprint
   translation: Pracetak
 
 - id: pub_report
@@ -189,7 +192,7 @@
 - id: pub_book
   translation: Buku
 
-- id: pub_chapter
+- id: pub_book_section
   translation: Bagian buku
 
 - id: pub_thesis

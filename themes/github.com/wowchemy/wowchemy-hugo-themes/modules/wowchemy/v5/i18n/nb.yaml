@@ -174,13 +174,16 @@
 - id: location
   translation: Sted
 
-- id: paper-conference
+- id: pub_uncat
+  translation: Ukategorisert
+
+- id: pub_conf
   translation: Konferanseartikkel
 
-- id: pub_article_journal
+- id: pub_journal
   translation: Tidskriftsartikel
 
-- id: pub_article
+- id: pub_preprint
   translation: Opprinnelig manus (preprint)
 
 - id: pub_report
@@ -189,7 +192,7 @@
 - id: pub_book
   translation: Bok
 
-- id: pub_chapter
+- id: pub_book_section
   translation: Bokkapittel
 
 - id: pub_thesis

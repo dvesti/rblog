@@ -174,13 +174,16 @@
 - id: location
   translation: Localizare
 
-- id: paper-conference
+- id: pub_uncat
+  translation: Fără categorie
+
+- id: pub_conf
   translation: Conference paper
 
-- id: pub_article_journal
+- id: pub_journal
   translation: Articol jurnal
 
-- id: pub_article
+- id: pub_preprint
   translation: Preprint
 
 - id: pub_report
@@ -189,7 +192,7 @@
 - id: pub_book
   translation: Carte
 
-- id: pub_chapter
+- id: pub_book_section
   translation: Secțiunea cărți
 
 - id: pub_thesis

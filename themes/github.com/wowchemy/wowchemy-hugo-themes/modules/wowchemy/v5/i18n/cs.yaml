@@ -174,13 +174,16 @@
 - id: location
   translation: Místo
 
-- id: paper-conference
+- id: pub_uncat
+  translation: Nezařazeno
+
+- id: pub_conf
   translation: Materiál ke konferenci
 
-- id: pub_article_journal
+- id: pub_journal
   translation: Článek v žurnálu
 
-- id: pub_article
+- id: pub_preprint
   translation: Tisk předem
 
 - id: pub_report
@@ -189,7 +192,7 @@
 - id: pub_book
   translation: Kniha
 
-- id: pub_chapter
+- id: pub_book_section
   translation: Sekce knihy
 
 - id: pub_thesis

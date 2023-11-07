@@ -174,13 +174,16 @@
 - id: location
   translation: Toerana
 
-- id: paper-conference
+- id: pub_uncat
+  translation: Tsy voasokajy
+
+- id: pub_conf
   translation: Taratasy fihaonambe
 
-- id: pub_article_journal
+- id: pub_journal
   translation: Lahatsoratra amin'ny gazety
 
-- id: pub_article
+- id: pub_preprint
   translation: Preprint
 
 - id: pub_report
@@ -189,7 +192,7 @@
 - id: pub_book
   translation: Boky
 
-- id: pub_chapter
+- id: pub_book_section
   translation: fizarana boky
 
 - id: pub_thesis

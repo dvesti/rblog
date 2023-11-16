@@ -174,13 +174,16 @@
 - id: location
   translation: Lokacija
 
-- id: paper-conference
+- id: pub_uncat
+  translation: Nekategorizuota
+
+- id: pub_conf
   translation: Konferencijos publikacija
 
-- id: pub_article_journal
+- id: pub_journal
   translation: Mokslinis straipsnis
 
-- id: pub_article
+- id: pub_preprint
   translation: Nerecenzuota publikacija
 
 - id: pub_report
@@ -189,7 +192,7 @@
 - id: pub_book
   translation: Knyga
 
-- id: pub_chapter
+- id: pub_book_section
   translation: Knygos skyrius
 
 - id: pub_thesis

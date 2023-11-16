@@ -174,13 +174,16 @@
 - id: location
   translation: Kokalekua
 
-- id: paper-conference
+- id: pub_uncat
+  translation: Kategoriarik gabe
+
+- id: pub_conf
   translation: Konferentzia-artikulua
 
-- id: pub_article_journal
+- id: pub_journal
   translation: Aldizkari-artikulua
 
-- id: pub_article
+- id: pub_preprint
   translation: Aurreargitalpena
 
 - id: pub_report
@@ -189,7 +192,7 @@
 - id: pub_book
   translation: Liburua
 
-- id: pub_chapter
+- id: pub_book_section
   translation: Liburu-kapitulua
 
 - id: pub_thesis

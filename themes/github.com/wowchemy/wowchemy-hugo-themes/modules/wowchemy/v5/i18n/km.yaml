@@ -174,13 +174,16 @@
 - id: location
   translation: ទីតាំង
 
-- id: paper-conference
+- id: pub_uncat
+  translation: គ្មានប្រភេទ
+
+- id: pub_conf
   translation: សន្និសិទ
 
-- id: pub_article_journal
+- id: pub_journal
   translation: ទិនានុប្បវត្តិ
 
-- id: pub_article
+- id: pub_preprint
   translation: បោះពុម្ព
 
 - id: pub_report
@@ -189,7 +192,7 @@
 - id: pub_book
   translation: សៀវភៅបោះពុម្ព
 
-- id: pub_chapter
+- id: pub_book_section
   translation: ផ្នែកសៀវភៅ
 
 - id: pub_thesis

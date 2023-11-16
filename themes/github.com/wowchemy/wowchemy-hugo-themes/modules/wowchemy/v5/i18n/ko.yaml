@@ -174,13 +174,16 @@
 - id: location
   translation: 장소
 
-- id: paper-conference
+- id: pub_uncat
+  translation: 분류되지 않음
+
+- id: pub_conf
   translation: 학술 대회 논문
 
-- id: pub_article_journal
+- id: pub_journal
   translation: 저널 논문
 
-- id: pub_article
+- id: pub_preprint
   translation: 출판 전 논문
 
 - id: pub_report
@@ -189,7 +192,7 @@
 - id: pub_book
   translation: 도서
 
-- id: pub_chapter
+- id: pub_book_section
   translation: 책 소개 면
 
 - id: pub_thesis

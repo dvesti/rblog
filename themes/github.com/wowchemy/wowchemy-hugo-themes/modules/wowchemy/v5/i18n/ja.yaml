@@ -174,13 +174,16 @@
 - id: location
   translation: 場所
 
-- id: paper-conference
+- id: pub_uncat
+  translation: 未分類
+
+- id: pub_conf
   translation: 学会論文
 
-- id: pub_article_journal
+- id: pub_journal
   translation: ジャーナル記事
 
-- id: pub_article
+- id: pub_preprint
   translation: プレプリント
 
 - id: pub_report
@@ -189,7 +192,7 @@
 - id: pub_book
   translation: 書籍
 
-- id: pub_chapter
+- id: pub_book_section
   translation: Book section
 
 - id: pub_thesis

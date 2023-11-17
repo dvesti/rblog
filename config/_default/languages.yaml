@@ -4,7 +4,7 @@
 
 # Default language
 ru:
-  languageCode: ru_RU
+  languageCode: ru
 #en:
  # languageCode: en-us
   # Uncomment for multi-lingual sites, and move English content into `en` sub-folder.

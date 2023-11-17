@@ -1,5 +1,5 @@
 ---
-date: "2022-10-24"
+date: "2022-10-24 00:00:00+02:00"
 sections:
 - block: hero
   content:

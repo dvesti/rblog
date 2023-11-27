@@ -1,3 +1,4 @@
+
 # REMEMBER to restart R after you modify and save this file!
 
 # First, execute the global .Rprofile if it exists. You may configure blogdown
@@ -12,7 +13,10 @@ if (file.exists("~/.Rprofile")) {
 # https://bookdown.org/yihui/blogdown/global-options.html
 options(
   # to automatically serve the site on RStudio startup, set this option to TRUE
-  blogdown.serve_site.startup = FALSE,
+  blogdown.knit.on_save = FALSE,
+  blogdown.author = "RBlog09",
+  blogdown.ext = ".Rmarkdown",
+  blogdown.subdir = "post",
   # to disable knitting Rmd files on save, set this option to FALSE
   blogdown.knit.on_save = TRUE,
   # build .Rmd to .md; to build to .html (via Pandoc), set this option to 'html'

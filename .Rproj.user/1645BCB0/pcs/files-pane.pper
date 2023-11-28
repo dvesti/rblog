@@ -2,8 +2,8 @@
     "sortOrder": [
         {
             "columnIndex": 2,
-            "ascending": true
+            "ascending": false
         }
     ],
-    "path": "E:/Sites/R/work/rblog09"
+    "path": "E:/Sites/R/work/rblog09/content/post/2020-12-01-r-rmarkdown"
 }

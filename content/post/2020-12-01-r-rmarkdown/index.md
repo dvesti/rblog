@@ -18,3 +18,7 @@ You can embed an R code chunk like this:
 
 You can also embed plots. See Figure \@ref(fig:pie) for example:
 
+## Пояснение
+
+Убрал некоторый код  28-11-2023  
+

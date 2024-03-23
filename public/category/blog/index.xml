@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog | Academic</title>
+    <link>https://example.com/category/blog/</link>
+      <atom:link href="https://example.com/category/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 15 Nov 2023 12:12:12 +0200</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Blog</title>
+      <link>https://example.com/category/blog/</link>
+    </image>
+    
+    <item>
+      <title>Мои предпочтения</title>
+      <link>https://example.com/post/my-preferences/</link>
+      <pubDate>Wed, 15 Nov 2023 12:12:12 +0200</pubDate>
+      <guid>https://example.com/post/my-preferences/</guid>
+      <description>&lt;h2 id=&#34;что-я-хочу-иметь-на-сайте&#34;&gt;Что я хочу иметь на сайте?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Блог&lt;/li&gt;
+&lt;li&gt;Тэги&lt;/li&gt;
+&lt;li&gt;Категории&lt;/li&gt;
+&lt;li&gt;Поиск (не гугл, а внутренний)&lt;/li&gt;
+&lt;li&gt;Пагинация общая&lt;/li&gt;
+&lt;li&gt;Переход на Следующий/Предыдущий&lt;/li&gt;
+&lt;li&gt;Комментарии&lt;/li&gt;
+&lt;li&gt;Архив&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Продолжение следует&amp;hellip;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
